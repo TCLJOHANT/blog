@@ -1,0 +1,14 @@
+{
+  "name": "ejemplolevel3",
+  "version": "1.0.0",
+  "description": "ejemplo 3 para demostrar los 5 pasos y en orden para convertirse en un buen programador",
+  "main": "cli.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Johan Chate",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
